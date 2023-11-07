@@ -10,7 +10,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         "attrs>=19,<23",
-        "sphinx>=2.2,<3",
+        "sphinx>=2.2,<6",
         "docutils>=0.15.2,<0.16",
         "pyyaml",
         "sqlalchemy>=1.3,<2",
