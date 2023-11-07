@@ -11,7 +11,7 @@ setup(
     install_requires=[
         "attrs>=19,<23",
         "sphinx>=2.2,<6",
-        "docutils>=0.15.2,<0.16",
+        "docutils>=0.15.2,<0.20",
         "pyyaml",
         "sqlalchemy>=1.3,<2",
         'typing-extensions; python_version<"3.8"',
