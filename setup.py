@@ -9,7 +9,7 @@ setup(
     author="Chris Sewell",
     packages=find_packages(),
     install_requires=[
-        "attrs>=19,<20",
+        "attrs>=19,<23",
         "sphinx>=2.2,<3",
         "docutils>=0.15.2,<0.16",
         "pyyaml",
